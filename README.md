@@ -9,7 +9,3 @@ Introduce el peso total y los porcentajes de cada ingrediente, y la app calcular
 3. Ajusta los porcentajes de los ingredientes.
 4. Haz clic en **Calcular** y verás los resultados.
 
-## Publicación en GitHub Pages
-- Sube este repositorio a GitHub.
-- Activa GitHub Pages en **Settings → Pages → Source → main branch**.
-- Obtendrás una URL pública como:
